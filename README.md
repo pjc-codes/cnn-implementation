@@ -1,6 +1,6 @@
 # Convolutional Neural Networks Implementation
 
-This repository contains a Jupyter notebook implementing a convolutional neural network (CNN) for handwritten digit classification on the MNIST dataset using TensorFlow / Keras.
+This repository contains a Jupyter notebook implementing a convolutional neural network (CNN) for handwritten digit classification on the MNIST dataset using TensorFlow / PyTorch.
 
 The notebook demonstrates:
 
