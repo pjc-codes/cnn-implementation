@@ -1,0 +1,1 @@
+MNIST data available within torchvision was used for this.
